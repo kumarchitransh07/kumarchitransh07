@@ -5,16 +5,6 @@
     <br>
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
     👋 Hi! <strong>Kumar Chitransh</strong> An inquisitive student, a keen learner and a problem solver, always willing to dive deep into a problem for novel solutions.I look forward to challenging opportunities to redefine my potential and leave an impact.My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement but also innovation. 
-    
-<p align=center>
-    <img src="https://badges.pufler.dev/visits/kumarchitransh07/kumarchitransh07?color=black&logo=github" />
-    <img src="https://komarev.com/ghpvc/?username=kumarchitransh07&color=brightgreen" />
-    <a href="https://github.com/kumarchitransh07">
-    <img src="https://badges.pufler.dev/commits/monthly/kumarchitransh07?color=blue" />
-    </a>
-    </p>
-  </samp>
-</p>
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
