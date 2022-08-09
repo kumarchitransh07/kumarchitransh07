@@ -4,6 +4,10 @@
   <samp>
     <br>
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
+    
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
+    
+    
     👋 Hi! <strong>Kumar Chitransh</strong> An inquisitive student, a keen learner and a problem solver, always willing to dive deep into a problem for novel solutions.I look forward to challenging opportunities to redefine my potential and leave an impact.My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement but also innovation. 
     
 <p align=center>
