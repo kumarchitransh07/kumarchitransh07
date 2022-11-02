@@ -10,11 +10,11 @@
   <b><i>Let's connect! Find me on the web.</i></b>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kumarchitransh07/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/kumarchitransh07"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_kumarchitransh/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kumarchitransh/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/kumarchitransh7"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/kumarchitransh7/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:chitransh.sudhir@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://t.me/kumarschitransh"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://t.me/kumarchitransh7"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://kumarchitransh.medium.com/"><img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/2u2of5pt4xf28wrw9c44rjecw"><img height="30" src="https://img.shields.io/badge/spotify-green?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;
 
